@@ -1,0 +1,27 @@
+.button {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: none;
+  box-shadow: inset 5px 5px 12px #ffffff, 5px 5px 12px rgba(0, 0, 0, 0.16);
+  background-color: #ecf0f3;
+  margin: 10px;
+  font-size: 20px;
+  font-weight: 200;
+}
+.buttonsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.equalbutton {
+  width: 150px;
+  height: 50px;
+  border-radius: 50%;
+  border: none;
+  box-shadow: inset 5px 5px 12px #ffffff, 5px 5px 12px rgba(0, 0, 0, 0.16);
+  background-color: #ecf0f3;
+  margin: 10px;
+  font-size: 20px;
+  font-weight: 200;
+}
